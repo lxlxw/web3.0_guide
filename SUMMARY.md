@@ -2,7 +2,7 @@
 
 * [前言](README.md)
 * [如何贡献](ru-he-gong-xian.md)
-* [第一章 什么是Web3.0](web3\_overview.md)
+* [第一章 什么是Web3.0](<README (1).md>)
 * [第二章 从Web1.0到Web3.0](web3.0/README.md)
   * [Web1.0](web3.0/web1.0.md)
   * [Web2.0](web3.0/web2.0.md)
